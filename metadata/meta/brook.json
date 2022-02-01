@@ -1,0 +1,23 @@
+{
+    "name": "Brook",
+    "description": "Brook of the Straw Hat Pirates.",
+    "image": "https://ipfs.io/ipfs/QmZ5ufRK59fcotSDHp7a4gqGr7AZmwH5LztCWikyhakwmQ?filename=brook.png",
+    "attributes": [
+        {
+            "trait_type": "Epithet",
+            "value": "Souru Kingu"
+        },
+        {
+            "trait_type": "Birthday",
+            "value": "April 3rd"
+        },
+        {
+            "trait_type": "Origin",
+            "value": "West Blue"
+        },
+        {
+            "trait_type": "Bounty",
+            "value": "83,000,000 Beli"
+        }
+    ]
+}

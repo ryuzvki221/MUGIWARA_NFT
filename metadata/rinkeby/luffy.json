@@ -1,0 +1,23 @@
+{
+    "name": "Monkey D. Luffy",
+    "description": "Luffy capitain of the Straw Hat Pirates.",
+    "image": "https://ipfs.io/ipfs/QmdZcEEuvrDaNXbHkxqSPjPg3C8yvfx3k4Y5vL6Q5KHQyy?filename=luffy.png",
+    "attributes": [
+        {
+            "trait_type": "Epithet",
+            "value": "Mugiwara no Rufi"
+        },
+        {
+            "trait_type": "Birthday",
+            "value": "May 5th"
+        },
+        {
+            "trait_type": "Origin",
+            "value": "East Blue"
+        },
+        {
+            "trait_type": "Bounty",
+            "value": "1,500,000,000 Beli"
+        }
+    ]
+}

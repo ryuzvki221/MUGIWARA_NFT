@@ -1,0 +1,23 @@
+{
+    "name": "Tony Tony Chopper",
+    "description": "Chopper doctor of the Straw Hat Pirates.",
+    "image": "https://ipfs.io/ipfs/QmPB9KZuFikMoHBoywkrPoFsMCokEUs6y6KBQoXQxAbepA?filename=chopper.png",
+    "attributes": [
+        {
+            "trait_type": "Epithet",
+            "value": "Wataame Daisuki"
+        },
+        {
+            "trait_type": "Birthday",
+            "value": "December 24th"
+        },
+        {
+            "trait_type": "Origin",
+            "value": "Grand Line"
+        },
+        {
+            "trait_type": "Bounty",
+            "value": "100 Beli"
+        }
+    ]
+}

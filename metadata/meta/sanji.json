@@ -1,0 +1,23 @@
+{
+    "name": "Sanji",
+    "description": "Sanji of the Straw Hat Pirates.",
+    "image": "https://ipfs.io/ipfs/QmRkyX8e6SW6uGTZM8SCzFq5vyboQuLDeR4Cg7s14SdoTh?filename=sanji.png",
+    "attributes": [
+        {
+            "trait_type": "Epithet",
+            "value": "Kuro Ashi"
+        },
+        {
+            "trait_type": "Birthday",
+            "value": "March 2nd"
+        },
+        {
+            "trait_type": "Origin",
+            "value": "North Blue"
+        },
+        {
+            "trait_type": "Bounty",
+            "value": "330,000,000 Beli"
+        }
+    ]
+}

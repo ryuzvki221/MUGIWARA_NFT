@@ -1,0 +1,23 @@
+{
+    "name": "Roronoa Zoro",
+    "description": "Zoro of the Straw Hat Pirates.",
+    "image": "https://ipfs.io/ipfs/QmWLxQKCenUfjdAAaX72cEMY7QK6rn9DdvLEuALp3X1wi9?filename=zoro.png",
+    "attributes": [
+        {
+            "trait_type": "Epithet",
+            "value": "Kaizoku Gari no Zoro"
+        },
+        {
+            "trait_type": "Birthday",
+            "value": "November 11th"
+        },
+        {
+            "trait_type": "Origin",
+            "value": "East Blue"
+        },
+        {
+            "trait_type": "Bounty",
+            "value": "320,000,000 Beli"
+        }
+    ]
+}

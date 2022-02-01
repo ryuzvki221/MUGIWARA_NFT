@@ -1,0 +1,23 @@
+{
+    "name": "Nami",
+    "description": "Nami Navigator of the Straw Hat Pirates.",
+    "image": "https://ipfs.io/ipfs/QmXd4axat5VTgBZ2TEe7xVhzD1bYiyq3ntwpTRuj8vcmp2?filename=nami.png",
+    "attributes": [
+        {
+            "trait_type": "Epithet",
+            "value": "Dorobō Neko"
+        },
+        {
+            "trait_type": "Birthday",
+            "value": "July 3rd"
+        },
+        {
+            "trait_type": "Origin",
+            "value": "East Blue"
+        },
+        {
+            "trait_type": "Bounty",
+            "value": "66,000,000 Beli"
+        }
+    ]
+}

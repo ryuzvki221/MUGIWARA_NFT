@@ -1,0 +1,23 @@
+{
+    "name": "Usopp",
+    "description": "Usopp of the Straw Hat Pirates.",
+    "image": "https://ipfs.io/ipfs/QmUbrMAG1cQiL3kPgQvScr5K7hdKHa9u1mhcjNmge5NCoZ?filename=usopp.png",
+    "attributes": [
+        {
+            "trait_type": "Epithet",
+            "value": "Sogeki no \u014c-sama"
+        },
+        {
+            "trait_type": "Birthday",
+            "value": "April 1st "
+        },
+        {
+            "trait_type": "Origin",
+            "value": "East Blue"
+        },
+        {
+            "trait_type": "Bounty",
+            "value": "200,000,000 Beli"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Nico Robin",
+    "description": "Robin of the Straw Hat Pirates.",
+    "image": "https://ipfs.io/ipfs/QmbXCinYN3txuaxAnCc46mizQ7Ksa1L3LUFFoiJQpyMRc4?filename=robin.png",
+    "attributes": [
+        {
+            "trait_type": "Epithet",
+            "value": "Devil Child"
+        },
+        {
+            "trait_type": "Birthday",
+            "value": "February 6th"
+        },
+        {
+            "trait_type": "Origin",
+            "value": "West Blue"
+        },
+        {
+            "trait_type": "Bounty",
+            "value": "130,000,000 Beli"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Franky",
+    "description": "Franky of the Straw Hat Pirates.",
+    "image": "https://ipfs.io/ipfs/QmTCGg7DXUpXr9tANCBKRTG1vU8SRCqXG58szr1kJWjecW?filename=franky.png",
+    "attributes": [
+        {
+            "trait_type": "Epithet",
+            "value": "Saibōgu Furankī"
+        },
+        {
+            "trait_type": "Birthday",
+            "value": "March 9th"
+        },
+        {
+            "trait_type": "Origin",
+            "value": "South Blue"
+        },
+        {
+            "trait_type": "Bounty",
+            "value": "94,000,000 Beli"
+        }
+    ]
+}

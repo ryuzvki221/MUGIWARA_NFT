@@ -1,0 +1,23 @@
+{
+    "name": "Jinbei",
+    "description": "Jinbei of the Straw Hat Pirates.",
+    "image": "https://ipfs.io/ipfs/QmaTRf9krNNUjGuzBHxHhRe8bn5TGd2xLYzpnpgz36GLZM?filename=jinbei.png",
+    "attributes": [
+        {
+            "trait_type": "Epithet",
+            "value": "Kaikyō no Jinbē"
+        },
+        {
+            "trait_type": "Birthday",
+            "value": "April 2nd"
+        },
+        {
+            "trait_type": "Origin",
+            "value": "Grand Line"
+        },
+        {
+            "trait_type": "Bounty",
+            "value": "438,000,000 Beli"
+        }
+    ]
+}
